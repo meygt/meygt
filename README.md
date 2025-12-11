@@ -2,7 +2,7 @@
 
 My name is Muhammet
 
-- 🔭 I’m currently a full-time senior college student in the U.S.
+- 🔭 I’m a Computer Science graduate.
 - 🌱 I’m currently learning data analytics and cybersecurity
 - 👯 I’m looking to collaborate on github
 - 🤔 I’m looking for help with cybersecurity
